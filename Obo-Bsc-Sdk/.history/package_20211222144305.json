@@ -1,7 +1,7 @@
 {
   "name": "@oboswap/bsc-sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Oboswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

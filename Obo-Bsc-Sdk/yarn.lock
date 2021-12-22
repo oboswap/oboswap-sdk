@@ -1314,10 +1314,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@qdexgo/v2-core@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@qdexgo/v2-core/-/v2-core-1.0.1.tgz#90b95f8fb91037a92271436862792e5d967e4ebc"
-  integrity sha512-NfziqbYxVxPQN/uhuuGPJmFCGv/yjHALYg06FV+4S6Pt1ctnjb7YXjZ8Abrmr4gstCXgwUkDxXfyUe4a6uCa7Q==
+"@oboswap/obo-swap-core@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/@oboswap/obo-swap-core/-/obo-swap-core-1.0.3.tgz#704f5c53e56f4c4f72570b240b9c6dd02c7078c9"
+  integrity sha512-E84ILLn3WpNNLZgTThPjIIG3ZFI2dTkhWHCEqGBewVPwkullQ6ZIO4mI+QASl24fkFKW/KKsfJ5J2H1G6zBaaw==
 
 "@rollup/plugin-commonjs@^11.0.0":
   version "11.1.0"
